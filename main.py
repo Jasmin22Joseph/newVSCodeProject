@@ -1,0 +1,1 @@
+print('This is the main.py fiel added in the newVSCodeProject')
